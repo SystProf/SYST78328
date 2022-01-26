@@ -6,10 +6,10 @@
 package studlist;
 
 /**
- *
- * @author Megha Patel
+ *This class is inherited by student class
+ * @author Megha Patel,2022
  */
-public class PartTimeStudent {
+public class PartTimeStudent extends Student {
     private int numOfCourses;
 
     /**
